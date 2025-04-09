@@ -90,11 +90,11 @@ Given medical records of patients (like glucose level, BMI, insulin, etc.), pred
 ## 📊 Results & Evaluation
 
 ### ✅ Random Forest (Best Estimator from Grid Search)
-- Accuracy: ~**X.XX** (e.g., 87%)
+- Accuracy: ~**75%** 
 - Confusion Matrix and classification report plotted using `seaborn.heatmap`
 
 ### ✅ Custom Logistic Regression
-- Accuracy: ~**X.XX%**
+- Accuracy: ~**74.48%**
 - Precision, Recall, and F1-score calculated manually
 - Custom classification report printed for deeper insight
 
